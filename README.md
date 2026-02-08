@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Fraction Math Problem Generator
 
 A short description of your project — what it does and why it’s useful.
 
@@ -6,11 +6,6 @@ A short description of your project — what it does and why it’s useful.
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -40,14 +35,30 @@ Example:
 
 ### Steps
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
+# Download Python
+Run the downloaded installer.
 
-# Navigate into the project folder
-cd your-repo
+Important: Check the box that says “Add Python to PATH” at the bottom.
 
-# Install dependencies
-npm install
+Click Install Now.
 
-# Start the development server
-npm start
+Wait for it to finish, then click Close.
+
+# Python Check
+Run: python --version OR py --version
+Do this in your Terminal.
+
+# Make a folder
+Make a folder that will have your generator in it.
+
+# Making the Script
+Copy and paste the script into notepad. Save as "fractions_github.py" (Do not add ".)
+
+# Start Generating
+To start generating go to where your folder is. Before you open it right click then press "Open in Terminal".
+
+Once your in the Terminal paste this in, "python fractions_github.py". This tells the script to generate the math problem.
+
+# Whats Next?
+
+If you did all these steps correctly you should see all 500 fraction math problems in the Terminal.
