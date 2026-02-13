@@ -1,6 +1,6 @@
 # 🚀 Fraction Math Problem Generator
 
-A short description of your project — what it does and why it’s useful.
+Create free and unlimited fraction math problems!
 
 ## 📌 Table of Contents
 - [About](#about)
